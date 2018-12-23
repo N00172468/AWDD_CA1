@@ -1,0 +1,266 @@
+/*>>>>>>>>>>>>>>GLOBAL<<<<<<<<<<<<<*/
+
+body {
+    /*font-family: 'Raleway', sans-serif;*/
+    /*font-family: 'Roboto', sans-serif;*/
+}
+
+
+/*----------HEADER----------*/
+
+/*Header Config*/
+.header {
+    font-family: 'Raleway', sans-serif;
+    background: #ebebeb;
+}
+
+/*Login Link*/
+.logInLink {
+    /*background: red;*/
+    color: #000000;
+    width: 115px;
+    margin-left: 410px;
+    margin-top: 55px;
+}
+
+/*Divider*/
+.divider {
+    /*background: green;*/
+    width: 1px;
+    font-size: 56px;
+    margin-left: 420px;
+    margin-top: 45px;
+}
+
+/*Sign Up Button*/
+.signUpLink {
+    /*background: blue;*/
+    color: #000000;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 330px;
+    margin-top: 50px;
+}
+
+
+/*----------NAVIGATION BAR---------*/
+
+.row2 {
+    background: #d7d7d7;
+}
+
+nav {
+    height: 55px;
+}
+
+.navContents {
+    background: #d7d7d7;
+}
+
+.nav-item {
+    font-size: 24px;       
+}
+
+
+/*--------FOOTER--------*/
+
+.foot {
+    margin-top: 35px;
+    font-family: 'Raleway', sans-serif;
+    background: #d7d7d7;
+    text-align: center;
+}
+
+.row7 {
+    background: #ebebeb;
+}
+
+/*Social Media Icons*/
+.fb {
+    margin-top: 35px;
+}
+
+.insta {
+    margin-top: 35px;
+}
+
+.twit {
+    margin-top: 35px;
+}
+
+.yt {
+    margin-top: 35px;
+}
+
+/*Links*/
+.footLinks {
+    margin-top: 35px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.footHome {
+    color: #aaaaaa;
+    font-size: 24px;
+}
+
+.footContact {
+    color: #aaaaaa;
+    font-size: 24px;
+}
+
+
+.footSupport {
+    color: #aaaaaa;
+    font-size: 24px;
+}
+
+
+.footAbout {
+    color: #aaaaaa;
+    font-size: 24px;
+}
+
+
+
+/*>>>>>>>>>>>>>HOME PAGE<<<<<<<<<<<<<<*/
+
+/*-------BEOFRE FOLD-------*/
+
+/*Carousel*/
+.carousel {
+    margin-top: 30px;
+}
+
+/*Section*/
+.introText {
+    font-family: 'Raleway', sans-serif;
+    font-size: 34px;
+    margin-top: 100px;
+}
+
+
+/*--------AFTER FOLD--------*/
+
+/*Cards*/
+.card-header {
+    font-family: 'Raleway', sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.card-title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.card-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.card1 {
+    margin-top: 35px;
+}
+
+.card2 {
+    margin-top: 35px;
+}
+
+.card3 {
+    margin-top: 35px;
+}
+
+.card4 {
+    margin-top: 35px;
+}
+
+/*Jumbotron*/
+.jumbotron {
+    margin-top: 35px;
+    background: #ebebeb;
+}
+
+.jumboHead {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 58px;
+}
+
+.jumboBody {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+/*>>>>>>>>>>>>>>>>TEAM and WARDS PAGE<<<<<<<<<<<<<<*/
+
+/*Cards*/
+.teamDocs {
+    margin-top: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.teamRow3 {
+    margin-top: 35px;
+}
+
+.teamRow4 {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.teamNurse {
+    margin: 35px;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.teamRow5 {
+    margin-top: 35px;
+}
+
+.teamRow6 {
+    margin-top: 35px;
+}
+
+
+
+/*>>>>>>>>>>>>FORM PAGE<<<<<<<<<<<<<*/
+
+form {
+    margin-top: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+}
+
+.formDivider {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+/*>>>>>>>>>>>>>DASHBOARD<<<<<<<<<<<<<*/
+.dashRow3 {
+    font-family: 'Raleway', sans-serif;
+    margin-left: inherit;
+}
+
+/*Sidebar*/
+.sidebar-sticky {
+    background: #d7d7d7;
+}
+
+.dashNavLink {
+    color: #515151;
+    font-size: 18px;
+    margin-top: 47px;
+}
+
+/*Table*/
+.dashTable {
+    margin-left: inherit;
+}
